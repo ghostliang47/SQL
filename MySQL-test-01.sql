@@ -1,6 +1,6 @@
-CREATE DATABASE mysql_shiyan;
+CREATE DATABASE mysql_test;
 
-use mysql_shiyan;
+use mysql_test;
 
 CREATE TABLE department
 (
